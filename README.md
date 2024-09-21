@@ -19,7 +19,7 @@
 **Analysis in-scope Usecase:** 
               Identifying what attributes /teams/regions are experiencing high attrition(descriptive).
 <br>
-**Usecase Diagram**
+**Usecase Diagram**<br>
 ![Usecase](https://github.com/user-attachments/assets/4acc887f-3a79-45d3-bd51-7e3ed0cfdf21)
 
 <br>
