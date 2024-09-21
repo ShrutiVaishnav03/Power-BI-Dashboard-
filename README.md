@@ -23,6 +23,7 @@
               1) Calculations of average number of employees - this can help to identify ways to retain employee & customers.
               2) Requirement to conduct exit interviews.
               3) Database Requirement.
+              <br>
 **Glossary Of Glossary:** 
               Gradual reduction or loss of the employees in an organization due to resignations, retirements, or other reasons for leaving.
 
