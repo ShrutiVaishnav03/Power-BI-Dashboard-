@@ -5,7 +5,7 @@
                  Attriton is different from turnover, which generally involves dismissals or layoffs. Attrition can impact organizational stability & may 
                  require strategies to retain & engage employees. 
 <br> 
-**Problems behind this:** <br>
+**Problems behinds are:** <br>
                     1) Financial Impact<br>
                     2) loss of productivity<br>
                     3) loss of institutional knowledge<br> 
