@@ -24,7 +24,7 @@
               2) Requirement to conduct exit interviews.
               3) Database Requirement.
               <br>
-**Glossary Of Glossary:** 
+**Glossary Of Attrition:** 
               Gradual reduction or loss of the employees in an organization due to resignations, retirements, or other reasons for leaving.
 
 
