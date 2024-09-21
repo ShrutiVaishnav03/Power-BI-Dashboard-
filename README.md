@@ -23,12 +23,13 @@
 ![Usecase](https://github.com/user-attachments/assets/4acc887f-3a79-45d3-bd51-7e3ed0cfdf21)
 
 <br>
-**Requirements:**<br>
+Requirements:  <br>
               1) Calculations of average number of employees - this can help to identify ways to retain employee & customers.<br>
               2) Requirement to conduct exit interviews.<br>
               3) Database Requirement.<br>
               <br>
-**Glossary Of Attrition:** 
+              
+              Glossary Of Attrition:
               Gradual reduction or loss of the employees in an organization due to resignations, retirements, or other reasons for leaving.
 
 
