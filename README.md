@@ -1,5 +1,5 @@
 **Project Objective:** 
-                 To get the data of attrition in the organization and what was the job roles & from which department they belong.
+                 To get the data of attrition in the organization and what was the job roles & from which department they belongs.
 <br>
 **Project Justification:** 
                  Attriton is different from turnover, which generally involves dismissals or layoffs. Attrition can impact organizational stability & may 
